@@ -127,3 +127,20 @@ google-chrome # launch the Google Chrome from terminal
 ```
 
 I prefer Google Chrome than Firefox, or Microsoft Edge.
+
+### 九、Install Java environment
+
+```shell
+#sudo apt-get -o Dpkg::Options::="--force-overwrite" install openjdk-9-jdk
+sudo apt-get update
+sudo apt-get install default-jdk
+```
+
+### 十、Install Mars
+
+```shell
+wget https://courses.missouristate.edu/kenvollmar/mars/MARS_4_5_Aug2014/Mars4_5.jar
+# run Mars
+# java -jar Mar-xxxxx
+```
+
