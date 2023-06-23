@@ -42,7 +42,7 @@ Using Firefox, search `Linux QQ install`, and choose `x64-deb`, then double clic
 * `git config user.email`
    * if both have no output, input the following two instructions:
   * `git config --global user.name "zrmin"`
-     * `git config --global user.email "fmrt19zrmin@163.com"`
+  * `git config --global user.email "fmrt19zrmin@163.com"`
 
 1. `ssh-keygen`
 
@@ -66,7 +66,7 @@ Using Firefox, search `Linux QQ install`, and choose `x64-deb`, then double clic
 
 ````bash
 git clone git@github.com:zrmin/Linux-.git
-mv .bashrc .tmux.conf .bashrc ~/
+mv .bashrc .tmux.conf .vimrc ~/
 ````
 
 ### 六、Install Jupyter notebook
