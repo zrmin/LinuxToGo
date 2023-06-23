@@ -66,6 +66,7 @@ Using Firefox, search `Linux QQ install`, and choose `x64-deb`, then double clic
 
 ````bash
 git clone git@github.com:zrmin/Linux-.git
+cd Linux-
 mv .bashrc .tmux.conf .vimrc ~/
 ````
 
